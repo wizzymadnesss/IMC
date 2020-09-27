@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="tvSize">Enter size:</string>
+    <string name="tvWeight">Enter weight:</string>
+    <string name="tvLanguage">Select language:</string>
+    <string name="btnCalculate">Show BMI</string>
+    <string name="msgErrorSize">Enter size please</string>
+    <string name="msgErrorWeight">Enter weight please</string>
+    <string name="msgErrorMedition">Both values ​​must have the same measurement system.</string>
+    <string name="logo">"@drawable/logo_bmi"</string>
+    <string name="category1">Underweight </string>
+    <string name="category2">Normal</string>
+    <string name="category3">Overweight</string>
+    <string name="category4">Obese</string>
+    <string name = "recomendation1"> Talk to your healthcare provider to establish possible causes of underweight and if you need to gain weight. </string>
+    <string name = "recomendation2"> Maintaining a healthy weight can reduce the risk of chronic diseases associated with being overweight and obese.
+
+Visit a nutritionist for information on the importance of healthy eating and physical activity to maintain a healthy weight. </string>
+    <string name = "recomendation3"> People who are overweight or obese are at increased risk for chronic conditions, such as high blood pressure, diabetes, and high cholesterol.
+
+Anyone who is overweight should try to avoid gaining more weight. Also, if you are overweight along with other risk factors (such as high levels of LDL cholesterol
+, low HDL cholesterol or high blood pressure), you should try to lose weight. Even a small decrease (as little as 10% of your current weight) can help decrease
+the risk of disease. Talk with your healthcare provider to establish proper ways to lose weight. </string>
+    <string name = "recomendation4"> People who are overweight or obese are at increased risk for chronic conditions, such as high blood pressure, diabetes, and high cholesterol.
+
+Anyone who is overweight should try to avoid gaining more weight. Also, if you are overweight along with other risk factors (such as high levels of LDL cholesterol
+, low HDL cholesterol or high blood pressure), you should try to lose weight. Even a small decrease (as little as 10% of your current weight) can help decrease
+the risk of disease. Talk with your healthcare provider to establish proper ways to lose weight. </string>
+
+    <string-array name="weight">
+        <item>lb</item>
+        <item>kg</item>
+    </string-array>
+    <string-array name="size">
+        <item>in</item>
+        <item>m</item>
+    </string-array>
+    <string-array name="language">
+        <item>English</item>
+        <item>Spanish</item>
+    </string-array>
+
+    <string name="msgResponse">Your index of BMI is </string>
+
+</resources>

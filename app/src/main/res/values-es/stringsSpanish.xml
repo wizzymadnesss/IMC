@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="tvSize">Ingresar altura:</string>
+    <string name="tvWeight">Ingresar peso:</string>
+    <string name="tvLanguage">Seleccionar idioma:</string>
+    <string name="btnCalculate">Calcular IMC</string>
+    <string name="msgErrorSize">Ingrese la altura</string>
+    <string name="msgErrorWeight">Ingrese el peso</string>
+    <string name="msgErrorMedition">Ambos valores tiene que tener el mismo sistema de medidas.</string>
+    <string name="logo">"@drawable/logo_imc"</string>
+    <string name="category1">Bajo peso</string>
+    <string name="category2">Normal</string>
+    <string name="category3">Sobre peso</string>
+    <string name="category4">Obeso</string>
+    <string name="recomendation1">Hable con su proveedor de atención médica para establecer las posibles causas del bajo peso y si necesita ganar peso.</string>
+    <string name="recomendation2">Mantener un peso saludable puede reducir el riesgo de enfermedades crónicas asociadas al sobrepeso y la obesidad.
+
+Para información sobre la importancia de una alimentación saludable y actividad física para mantener un peso saludable visite un nutricionista.</string>
+    <string name="recomendation3">Las personas que tienen sobrepeso o son obesas tienen un mayor riesgo de afecciones crónicas, tales como hipertensión arterial, diabetes y colesterol alto.
+
+Toda persona que tenga sobrepeso debería tratar de evitar ganar más peso. Además, si usted tiene sobrepeso junto con otros factores de riesgo (como niveles altos de colesterol LDL
+, niveles bajos de colesterol HDL o hipertensión arterial), debería tratar de perder peso. Incluso una pequeña disminución (tan solo 10 % de su peso actual) puede ayudar a disminuir
+el riesgo de enfermedades. Hable con su proveedor de atención médica para establecer maneras adecuadas de perder peso.</string>
+    <string name="recomendation4">Las personas que tienen sobrepeso o son obesas tienen un mayor riesgo de afecciones crónicas, tales como hipertensión arterial, diabetes y colesterol alto.
+
+Toda persona que tenga sobrepeso debería tratar de evitar ganar más peso. Además, si usted tiene sobrepeso junto con otros factores de riesgo (como niveles altos de colesterol LDL
+, niveles bajos de colesterol HDL o hipertensión arterial), debería tratar de perder peso. Incluso una pequeña disminución (tan solo 10 % de su peso actual) puede ayudar a disminuir
+el riesgo de enfermedades. Hable con su proveedor de atención médica para establecer maneras adecuadas de perder peso.</string>
+
+    <string-array name="weight">
+        <item>kg</item>
+        <item>lb</item>
+    </string-array>
+    <string-array name="size">
+        <item>m</item>
+        <item>in</item>
+    </string-array>
+    <string-array name="language">
+        <item>Español</item>
+        <item>Inglés</item>
+    </string-array>
+
+    <string name="msgResponse">Su indice de IMC es </string>
+</resources>
